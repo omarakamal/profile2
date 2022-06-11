@@ -1,0 +1,6 @@
+export const aboutData = {
+    title: " About",
+    description1: "An experienced professional that’s worked in a variety of positions including managerial positions overseeing a team varying from seven members to ten depending on the current time and employment needs of the company. Along with my managerial experience I am a computer engineering graduate with a wealth of experience in the technology sector. Most recently I worked as a software engineering instructor at Tuwaiq Academy. With consideration to these roles the ideal position for my skillset would involve working a team and would involve dealing with clients as well as solving technical issues that arise.",
+    // description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    image: 2
+}
