@@ -1,23 +1,27 @@
 import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg'
-import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
-import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
-
+import braile from '../assets/svg/projects/braile.jpg'
+import crypto from '../assets/svg/projects/crypto.png'
 
 export const projectsData = [
     {
         id: 1,
+        projectName: 'Crypto Aggregate Application',
+        projectDesc: 'This is an application that aggregates the current top 50 crypto coins utilizing an API and filtering functions',
+        tags: ['React', 'CSS','JavaScript'],
+        code: 'https://github.com/omarakamal/Crypto_Aggregate_App',
+        demo: 'https://cryptoaggregate.herokuapp.com/',
+        image: crypto
+    },
+    {
+        id: 2,
         projectName: 'Hearing Impaied Aid Applications',
         projectDesc: 'This is a freelance project to help hearing impaired individuals in the KSA',
         tags: ['React', 'CSS'],
         code: 'https://github.com/omartuwaiq/manalforntend2',
         demo: 'http://talkinghandplus.herokuapp.com/',
-        image: one
-    },
+        image: braile
+    }
    
 ]
 

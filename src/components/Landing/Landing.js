@@ -138,7 +138,7 @@ function Landing() {
                                     </Button>
                                 </a>
                             )}
-                                <a href="omarakamal@gmail.com">
+                                <a href="www.omarakamal@gmail.com">
                                 <Button className={classes.contactBtn}>
                                   Contact
                                 </Button>

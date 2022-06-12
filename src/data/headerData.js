@@ -4,7 +4,7 @@ import resume from '../assets/pdf/resume.pdf'
 export const headerData = {
     name: 'Omar Kamal',
     title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    desciption:"Hello There! Allow me introduce myself. My name Omar Kamal and thank you for visiting my portfolio site. I am a software engineer and full stack developer. I have my freelance projects linked below and my contact information; feel free to contact me at this email",
     image: 'piclinked.jpg',
     resumePdf: resume
 }
